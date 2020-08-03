@@ -1,6 +1,3 @@
-<!--
-**chainsulting/chainsulting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hello World 👋
 
 <a href="https://chainsulting.de">
@@ -22,6 +19,3 @@
 <br />
 
 Chainsulting was founded 2017 and is a consulting and development company, on the subject of Distributed Ledger Technology (DLT) & Digital Assets. We show ways, opportunities, risks and offer comprehensive solutions. 
-
-
--->
