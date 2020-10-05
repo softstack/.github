@@ -48,12 +48,12 @@
         <img height="48px" src="https://cdn.svgporn.com/logos/material-ui.svg">
       </td>
       <td width="16%" align="center">
-        <strong>Webpack</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/webpack.svg">
+        <strong>AWS</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
       <td width="16%" align="center">
-        <strong>Eslint</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/eslint.svg">
+        <strong>Ethereum</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/ethereum.svg">
       </td>
     </tr>
   </tbody>
