@@ -32,20 +32,20 @@
     </tr>
     <tr valign="top">
       <td width="16%" align="center">
-        <strong>Sass/Scss</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/sass.svg">
+        <strong>Python</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="16%" align="center">
-        <strong>Less</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/less.svg">
+        <strong>C++</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
       </td>
       <td width="16%" align="center">
-        <strong>TailwindCSS</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+        <strong>Typescript</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
       </td>
       <td width="16%" align="center">
-        <strong>Material UI</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/material-ui.svg">
+        <strong>ReactJS</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="16%" align="center">
         <strong>AWS</strong><br><br><br>
