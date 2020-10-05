@@ -26,8 +26,8 @@
         <img height="48px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="16%" align="center">
-        <strong>VS Code</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <strong>Hyperledger</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/ibm.svg">
       </td>
     </tr>
     <tr valign="top">
