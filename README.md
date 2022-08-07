@@ -65,9 +65,6 @@
 <a href="https://linkedin.com/company/chainsulting">
   <img align="left" alt="Chainsulting - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
-<a href="https://www.instagram.com/chainsulting/">
-  <img align="left" alt="Chainsulting - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
-</a>
 <a href="https://twitter.com/chainsulting">
   <img align="left" alt="Chainsulting - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
