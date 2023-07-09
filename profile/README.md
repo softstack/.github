@@ -1,5 +1,5 @@
 # softstack - Web3 Development | Security | Consulting 👋
-![linkedinbanner4](https://github.com/softstackhq/.github/assets/139053754/bc713945-5139-447a-be57-f3055cdeec9d)
+![softstack_github_banner](https://github.com/softstackhq/.github/assets/139053754/bc713945-5139-447a-be57-f3055cdeec9d)
 ## Tech Stack
 
 <table>
