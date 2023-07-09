@@ -1,64 +1,5 @@
 # softstack - Web3 Development | Security | Consulting 👋
 ![softstack_github_banner](https://github.com/softstackhq/.github/assets/139053754/bc713945-5139-447a-be57-f3055cdeec9d)
-## Tech Stack
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="16%" align="center">
-        <strong>HTML5</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>CSS3</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>JavaScript</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>Vue</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/vue.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>Git</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-
-      <td width="16%" align="center">
-        <strong>Hyperledger</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/ibm.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="16%" align="center">
-        <strong>Python</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>C++</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>Typescript</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>ReactJS</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>AWS</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/aws.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>Ethereum</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/ethereum.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 <a href="https://chainsulting.de">
   <img align="left" alt="Chainsulting - Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefoxbrowser.svg"/>
@@ -75,7 +16,7 @@
 <br />
 <br />
 
-Chainsulting was founded 2017 and is a consulting and development company, on the subject of Distributed Ledger Technology (DLT) & Digital Assets. We show ways, opportunities, risks and offer comprehensive solutions. 
+softstack was founded 2017 as Chainsulting.de and got rebranded in 2023 to softstack.io. We are a consulting, security and development company, on the subject of Distributed Ledger Technology (DLT) & Digital Assets. We show ways, opportunities, risks and offer comprehensive solutions. 
 
 ✔ Development<br>
 ✔ Consulting <br>
