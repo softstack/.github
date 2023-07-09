@@ -3,13 +3,3 @@
 
 
 softstack was founded 2017 as Chainsulting.de and got rebranded in 2023 to softstack.io. We are a consulting, security and development company, on the subject of Distributed Ledger Technology (DLT) & Digital Assets. We show ways, opportunities, risks and offer comprehensive solutions. 
-
-✔ Development<br>
-✔ Consulting <br>
-✔ Security Audits<br>
-✔ Research<br>
-
-Contact:<br>
-hello@softstack.io<br>
-http://t.me/softstack<br>
-https://softstack.io<br>
