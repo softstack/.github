@@ -1,5 +1,5 @@
 # softstack - Web3 Development | Security | Consulting 👋
-
+![linkedinbanner4](https://github.com/softstackhq/.github/assets/139053754/bc713945-5139-447a-be57-f3055cdeec9d)
 ## Tech Stack
 
 <table>
@@ -25,6 +25,7 @@
         <strong>Git</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
+
       <td width="16%" align="center">
         <strong>Hyperledger</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/ibm.svg">
