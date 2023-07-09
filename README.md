@@ -1,4 +1,4 @@
-# Chainsulting - Web3 Development | Security | Consulting 👋
+# softstack - Web3 Development | Security | Consulting 👋
 
 ## Tech Stack
 
@@ -82,6 +82,6 @@ Chainsulting was founded 2017 and is a consulting and development company, on th
 ✔ Research<br>
 
 Contact:<br>
-hello@chainsulting.de<br>
-http://t.me/chainsulting<br>
-https://chainsulting.de<br>
+hello@softstack.io<br>
+http://t.me/softstack<br>
+https://softstack.io<br>
